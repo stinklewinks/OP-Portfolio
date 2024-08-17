@@ -4,6 +4,8 @@ import Nav from './Nav'
 import About from './comp/About';
 import Fullstack from './comp/Fullstack';
 import Skills from './comp/Skills';
+import Contact from './comp/Contact';
+import Footer from './comp/Footer';
 
 
 
@@ -16,6 +18,8 @@ root.render(
     <About />
     <Fullstack />
     <Skills />
+    <Contact />
+    <Footer />
   </React.StrictMode>
 );
 

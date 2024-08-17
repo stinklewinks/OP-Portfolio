@@ -2,7 +2,8 @@ import React from 'react'
 
 function Navbar() {
     return (
-        <nav className="bg-black-500 h:10 w:full flex items:center justify:center" id="main-nav">
+        <nav className="bg-black-500 h:10 w:full flex items:center justify:center around" id="main-nav">
+            <span className="homemade-apple text:color:creamsicle-200 text:md">Drew Winkles</span>
             <ul className="gap:1 flex" id="nav-links">
                 <li className="text:md :hover-black-400">
                     <a className="list:none dec:none text:color:creamsicle-600" href="#about">About</a>
