@@ -1,0 +1,12 @@
+{
+  "name": "OP-Portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Drew Marshall <drewwinkles@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.4.0",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.5.4"
+  }
+}
