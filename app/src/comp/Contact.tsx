@@ -2,7 +2,7 @@ import React from 'react'
 
 function Contact() {
     return (
-        <section className="mt:10 py:rel:10" id="contact">
+        <section className="py:rel:10 w:65 h:80% rel m:auto bg:creamsicle-100" id="contact">
             <h2 className="text:xlg text:center">Let's Talk over a nice Diet Coke</h2>
             <form className="flex col justify:items w:45 m:auto" method="post">
                 <label htmlFor="Name">Name</label><input type="text" name="name" id="name-field" title="name" /><br />
