@@ -35,10 +35,10 @@ function Footer() {
                     <li>Roadmap.sh</li>
                     <li>freeCodeCamp</li>
                         <li>
-                            <a className="list:none dec:none text:color::white-100 poppins" href="http://www.theodinproject.org">The Odin Project</a>
+                            <a className="list:none dec:none text:color::white-100 poppins" href="https://www.theodinproject.org">The Odin Project</a>
                         </li>
                         <li>
-                            <a className="list:none dec:none text:color::white-100 poppins" href="http://learn.microsoft.com">Microsoft Learn</a>
+                            <a className="list:none dec:none text:color::white-100 poppins" href="https://learn.microsoft.com">Microsoft Learn</a>
                         </li>
                 </ul>
                 </div>

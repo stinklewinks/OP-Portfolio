@@ -14,7 +14,6 @@ const root = ReactDOM.createRoot(
 );
 
 const mainRoot = document.getElementById('root');
-mainRoot?.classList.add("texture:hexa::hexa-040")
 root.render(
   <React.StrictMode>
     <Nav />

@@ -2,7 +2,7 @@ import Navbar from "./Navbar";
 
 function Nav() {
     return (
-        <header>
+        <header className="ds:sm">
             <Navbar />
         </header>
     );
